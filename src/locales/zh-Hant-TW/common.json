@@ -1,0 +1,11 @@
+{
+  "add-item-input-placeholder": "新增清單項目",
+  "app-title": "行李清單",
+  "delete-item-button": "刪除",
+  "items-count": "{count, plural, one {顯示 # 個項目} other {顯示 # 個項目}}",
+  "menu-item-translation-methods": "翻譯方式",
+  "send-via-email": "透過電子郵件傳送",
+  "share-button": "分享",
+  "terms-conditions-agreement": "我同意<a>服務條款</a>",
+  "welcome-message": "哈囉 {name}！"
+}
